@@ -4,6 +4,8 @@
 Location to be confirmed VUB U-residence
 Date: after the summer 2019
 
+Instructor: Niloofar Shirvanizadeh
+
 ## Overview
 
 There are now well over 130 million protein sequences available from Uniprot, and for only a small fraction of these
